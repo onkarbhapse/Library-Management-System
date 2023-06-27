@@ -27,7 +27,7 @@
 
 #### >Page to issue a book to a member of the library -
 
-<img width = 700 src="https://github.com/onkarbhapse/Library-Management-System/assets/99944300/7bea8f4b-7d70-43ee-9e3c-6bc7201c52e8">
+<img width = 700 src="https://github.com/onkarbhapse/Library-Management-System/assets/99944300/7e153fad-81ba-4fa9-bb2a-61589737629d">
 
 #### >Page to receive a book from a member of the library -
 
